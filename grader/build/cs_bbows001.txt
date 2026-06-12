@@ -1,0 +1,57 @@
+Grade report for build: cs_bbows001
+
+Submitted: 2026-06-11T19:48:07.443221
+Due: 2026-08-16
+Total: 100
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+builder
+score=100	weight=1	multiplier=false
+make[1]: Entering directory '/home/cs_bbows001/cs260/CS260Assmt1'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/cs_bbows001/cs260/CS260Assmt1'
+
+--- end of output ---
+--- std error ---
+
+--------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test000
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test001
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test002
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test003
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test004
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test005
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test006
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test007
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test008
+score=100	weight=1	multiplier=false
+OK
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+test009
+score=100	weight=1	multiplier=false
+OK

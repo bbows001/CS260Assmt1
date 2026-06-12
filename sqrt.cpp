@@ -5,7 +5,16 @@ using namespace std;
 
 double estimateSqrt(double target, double initial)
 {
-    /*** Your code here ***/
+    double guess = initial;
+    double error = guess * guess - target;
+
+    while (error > 0.001 || error < -0.001)
+    {
+        guess = (guess + target / guess) / 2.0;
+        error = guess * guess - target;
+    }
+
+    return guess;
 }
 
 int main()

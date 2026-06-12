@@ -1,0 +1,24 @@
+dateSubmitted:
+  mod: "@I/sqrt.cpp"
+dueDate: 2026-08-16
+latePenalties: [10, 20, 100]
+test:
+  launch: ./sqrt
+  timelimit: 10
+  grading:
+    - oracle: smart
+      scoring: ByLine
+      ws: true
+      cap: 100
+    - oracle: smart
+      scoring: ByLine
+      numbersOnly: true
+      cap: 85
+build:
+  instructorFiles:
+    exclude:
+      - sqrt.cpp
+  studentFiles:
+    exclude:
+      - makefile
+  command: make -k

@@ -1,0 +1,19 @@
+Test,Score,Weight,Msgs
+"builder: Attempt to build the program.",100,1,"make[1]: Entering directory '/home/cs_bbows001/cs260/CS260Assmt1'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/cs_bbows001/cs260/CS260Assmt1'
+
+--- end of output ---
+--- std error ---
+
+--------"
+"test000",100,1,"OK"
+"test001",100,1,"OK"
+"test002",100,1,"OK"
+"test003",100,1,"OK"
+"test004",100,1,"OK"
+"test005",100,1,"OK"
+"test006",100,1,"OK"
+"test007",100,1,"OK"
+"test008",100,1,"OK"
+"test009",100,1,"OK"
