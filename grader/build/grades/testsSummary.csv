@@ -1,7 +1,5 @@
 Test,Score,Weight,Msgs
-"builder: Attempt to build the program.",100,1,"make[1]: Entering directory '/home/cs_bbows001/cs260/CS260Assmt1'
-make[1]: Nothing to be done for 'all'.
-make[1]: Leaving directory '/home/cs_bbows001/cs260/CS260Assmt1'
+"builder: Attempt to build the program.",100,1,"make: Nothing to be done for 'all'.
 
 --- end of output ---
 --- std error ---

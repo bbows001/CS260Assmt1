@@ -5,15 +5,17 @@ using namespace std;
 
 double estimateSqrt(double target, double initial)
 {
+    // Set the initial guess and calculate the error
     double guess = initial;
     double error = guess * guess - target;
 
+    // Refine the guess until the error is within the acceptable range
     while (error > 0.001 || error < -0.001)
     {
         guess = (guess + target / guess) / 2.0;
         error = guess * guess - target;
     }
-
+    // Return the final estimate
     return guess;
 }
 
